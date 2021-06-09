@@ -6,7 +6,7 @@ I am interested in game develop and to learn to programm!
 
 Starting Computer Science major later this year!
 
-Looking to help and learn at the sime time 
+Looking to help and learn at the same time 
 
 Feel free to add me and message me for any doubts 
 
