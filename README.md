@@ -10,4 +10,4 @@ Cursando Engenharia da Computação
 - Breve experiencia em C#, Java, HTML e C.
 - Noção básica de Python.
 
-[![André's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrecostamarques)](https://github.com/anuraghazra/github-readme-stats)
+[![André's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrecostamarques)](https://github.com/andrecostamarques)
