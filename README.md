@@ -11,3 +11,4 @@ Cursando Engenharia da Computação
 - Noção básica de Python.
 
 [![André's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrecostamarques&show_icons=true&theme=dracula)](https://github.com/andrecostamarques)
+[![Linguagens mais usadas:](https://github-readme-stats.vercel.app/api/top-langs/?username=andrecostamarques)](https://github.com/andrecostamarques)
