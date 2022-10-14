@@ -11,5 +11,5 @@ Cursando Engenharia da Computação
 - Noção básica de Python.
 
 
-<img width="160em" src="https://github-readme-stats.vercel.app/api?username=andrecostamarques&show_icons=true&theme=dracula">
-<img width="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrecostamarques&layout=compact">
+<img width="45%" src="https://github-readme-stats.vercel.app/api?username=andrecostamarques&show_icons=true&theme=dracula">
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrecostamarques&layout=compact">
