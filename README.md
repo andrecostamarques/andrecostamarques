@@ -32,4 +32,4 @@ LinkedIn: https://www.linkedin.com/in/andr%C3%A9-augusto-bernab%C3%A9-da-costa-m
 Email para contato: andre.costa.marques@hotmail.com
 
 <img width="45%" src="https://github-readme-stats.vercel.app/api?username=andrecostamarques&show_icons=true&theme=dracula">
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrecostamarques&layout=compact">
+<img width="45.1%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrecostamarques&layout=compact">
