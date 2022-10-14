@@ -1,5 +1,6 @@
 
-# Olá! Sou André Marques, 19 anos e atualmente estou cursando o 2o semestre do curso de Engenharia de Computação em Pontífica Universidade Católica de Campinas.
+# Olá! Sou André Marques, 
+19 anos e atualmente estou cursando o 2o semestre do curso de Engenharia de Computação em Pontífica Universidade Católica de Campinas.
 
 Desde criança tenho interesse na área de computação, principalmente no aspecto de criatividade e inovação presente nele. Por conta dessa paixão adquiri habilidades como: Autodidatismo, adaptabilidade, lógica e sempre buscar melhorar em todas as capacidades.
 
