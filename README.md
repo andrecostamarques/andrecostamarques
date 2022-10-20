@@ -27,9 +27,9 @@ Idiomas:
 - Ingles
 - Espanhol intermediário 
 
-GitHub: https://github.com/andrecostamarques
+[GitHub:📚](https://github.com/andrecostamarques)
 
-LinkedIn: https://www.linkedin.com/in/andr%C3%A9-augusto-bernab%C3%A9-da-costa-marques-6b92b7253/
+[LinkedIn:🪪](https://www.linkedin.com/in/andr%C3%A9-augusto-bernab%C3%A9-da-costa-marques-6b92b7253/)
 
 Email para contato: andre.costa.marques@hotmail.com
 
